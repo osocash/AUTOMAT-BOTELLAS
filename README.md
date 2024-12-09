@@ -1,2 +1,2 @@
 url ejecutable 
-https://github.com/osocash/AUTOMAT-BOTELLAS
+https://osocash.github.io/AUTOMAT-BOTELLAS/INDEX.html
